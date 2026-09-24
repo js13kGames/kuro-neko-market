@@ -1,4 +1,8 @@
 ---
+genres:
+  - simulation
+  - management
+  - educational
 video: https://youtu.be/XYkS4vrhKuY
 post: https://fedetibaldo.itch.io/kuro-neko-market/devlog/1033446/postmortem
 # See github.com/js13kGames/hello-world for supported frontmatter
